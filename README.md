@@ -1,17 +1,16 @@
 # MSc_Dissertation
-MSc Dissertation: Improving the detection of handwritten musical symbols with a synthesised dataset
-
-README FILE
 
 Project Objective: Improving detection of handwritten musical symbols with a synthesized dataset
 
 Pranjali Hande
+
 Student ID 220707639
+
 Dr.George Fazekas
+
 Big Data Science
 
-This is a README file that provides steps to execute the dissertation source code. All these requirements need to be satisfied in order to execute the code successfully. This source code requires TensorFlow with GPU setup, hence, cannot be run directly (example: Google Colab). 
-Due to size constraints, only some samples of the input dataset and generated images are uploaded as a supporting document. Below is the GitHub link which contains complete datasets and generated images for each model. 
+This is a README file that provides steps to execute the dissertation source code. All these requirements need to be satisfied in order to execute the code successfully. This source code requires TensorFlow with GPU setup, hence, cannot be run directly (example: Google Colab). Due to size constraints, only some samples of the input dataset and generated images are uploaded as a supporting document. Below is the GitHub link which contains complete datasets and generated images for each model. 
 
 
 **A.	Setup Requirements:**
